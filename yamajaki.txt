@@ -1,0 +1,1039 @@
+/bin/sh: /Users/leeyunchang/PycharmProjects/crawling/yamajaki.sh: Permission denied
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+[WDM] - Downloading:   0%|          | 0.00/7.52M [00:00<?, ?B/s][WDM] - Downloading:   1%|          | 40.0k/7.52M [00:00<00:23, 329kB/s][WDM] - Downloading:   1%|          | 96.0k/7.52M [00:00<00:18, 429kB/s][WDM] - Downloading:   2%|▏         | 144k/7.52M [00:00<00:23, 328kB/s] [WDM] - Downloading:   4%|▎         | 280k/7.52M [00:00<00:11, 638kB/s][WDM] - Downloading:   6%|▌         | 464k/7.52M [00:00<00:07, 1.00MB/s][WDM] - Downloading:   9%|▉         | 728k/7.52M [00:00<00:04, 1.50MB/s][WDM] - Downloading:  15%|█▌        | 1.15M/7.52M [00:00<00:03, 1.68MB/s][WDM] - Downloading:  25%|██▌       | 1.91M/7.52M [00:01<00:02, 2.90MB/s][WDM] - Downloading:  34%|███▍      | 2.55M/7.52M [00:01<00:01, 3.74MB/s][WDM] - Downloading:  41%|████▏     | 3.12M/7.52M [00:01<00:01, 3.57MB/s][WDM] - Downloading:  55%|█████▍    | 4.10M/7.52M [00:01<00:00, 5.11MB/s][WDM] - Downloading:  62%|██████▏   | 4.66M/7.52M [00:01<00:00, 4.66MB/s][WDM] - Downloading:  77%|███████▋  | 5.77M/7.52M [00:01<00:00, 6.29MB/s][WDM] - Downloading:  86%|████████▌ | 6.46M/7.52M [00:01<00:00, 6.25MB/s][WDM] - Downloading:  95%|█████████▍| 7.12M/7.52M [00:02<00:00, 4.08MB/s][WDM] - Downloading: 100%|██████████| 7.52M/7.52M [00:02<00:00, 3.41MB/s]
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+Traceback (most recent call last):
+  File "/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py", line 2, in <module>
+    from selenium import webdriverq
+ImportError: cannot import name 'webdriverq' from 'selenium' (/Users/leeyunchang/PycharmProjects/crawling/venv/lib/python3.8/site-packages/selenium/__init__.py)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+Traceback (most recent call last):
+  File "/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py", line 16, in <module>
+    driver.find_element(By.XPATH, r'//*[@id="main_contents_r"]/article[1]').click()
+  File "/Users/leeyunchang/PycharmProjects/crawling/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 856, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "/Users/leeyunchang/PycharmProjects/crawling/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "/Users/leeyunchang/PycharmProjects/crawling/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 243, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: headless chrome=106.0.5249.119)
+Stacktrace:
+0   chromedriver                        0x00000001045e2f44 chromedriver + 3813188
+1   chromedriver                        0x0000000104574ae0 chromedriver + 3361504
+2   chromedriver                        0x0000000104278c5c chromedriver + 232540
+3   chromedriver                        0x00000001042670b0 chromedriver + 159920
+4   chromedriver                        0x0000000104266e8c chromedriver + 159372
+5   chromedriver                        0x0000000104265fec chromedriver + 155628
+6   chromedriver                        0x0000000104266460 chromedriver + 156768
+7   chromedriver                        0x0000000104271900 chromedriver + 203008
+8   chromedriver                        0x000000010427f948 chromedriver + 260424
+9   chromedriver                        0x00000001042667a4 chromedriver + 157604
+10  chromedriver                        0x000000010427f734 chromedriver + 259892
+11  chromedriver                        0x00000001042d8274 chromedriver + 623220
+12  chromedriver                        0x000000010429f358 chromedriver + 389976
+13  chromedriver                        0x00000001042a0284 chromedriver + 393860
+14  chromedriver                        0x00000001045b6e18 chromedriver + 3632664
+15  chromedriver                        0x00000001045ba97c chromedriver + 3647868
+16  chromedriver                        0x00000001045c0b58 chromedriver + 3672920
+17  chromedriver                        0x00000001045bb350 chromedriver + 3650384
+18  chromedriver                        0x00000001045988dc chromedriver + 3508444
+19  chromedriver                        0x00000001045d5914 chromedriver + 3758356
+20  chromedriver                        0x00000001045d5a78 chromedriver + 3758712
+21  chromedriver                        0x00000001045e96cc chromedriver + 3839692
+22  libsystem_pthread.dylib             0x0000000198bdd240 _pthread_start + 148
+23  libsystem_pthread.dylib             0x0000000198bd8024 thread_start + 8
+
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+/Users/leeyunchang/PycharmProjects/crawling/yamajaki_crawling.py:9: DeprecationWarning: use options instead of chrome_options
+  driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
